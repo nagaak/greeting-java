@@ -9,5 +9,7 @@ public class HelloWorld {
     System.out.println("KNReddyDupadu, World");
 
     System.out.println("jenkinsurl/github-webhook/, World");
+
+    System.out.println("jenkinurl/github-webhook/");
   }
 }
