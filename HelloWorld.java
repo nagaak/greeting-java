@@ -13,5 +13,7 @@ public class HelloWorld {
     System.out.println("jenkinurl/github-webhook/");
 
     System.out.println("Best pratice for jenkins/");
+
+    System.out.println("poll-scm /");
   }
 }
