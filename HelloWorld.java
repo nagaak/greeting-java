@@ -14,7 +14,7 @@ public class HelloWorld {
 
     System.out.println("Best pratice for jenkins/");
 
-    System.out.println("poll-scm /");
-      ec2-18-222-147-186.us-east-2.compute.amazonaws.com
+    System.out.println(" github-webhookpoll-scm /");
+    	      
   }
 }
