@@ -11,5 +11,7 @@ public class HelloWorld {
     System.out.println("jenkinsurl/github-webhook/, World");
 
     System.out.println("jenkinurl/github-webhook/");
+
+    System.out.println("Best pratice for jenkins/");
   }
 }
